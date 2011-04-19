@@ -1,0 +1,12 @@
+:rules:
+-
+  :code: FR1
+  :method: buy_one_get_one_free
+  :options:
+    :price: 0.0
+-
+  :code: SR1
+  :method: bulk_discount
+  :options:
+    :threshold: 3
+    :price: 4.5
